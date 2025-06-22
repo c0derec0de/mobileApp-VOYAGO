@@ -3,12 +3,12 @@
 ## Сервис для оптимального планирования пешего маршрута по достопримечательностям
 
 ### Участники команды 3 группы 3:    
-- [Лобцов Дмитрий](https://github.com/shelf08) / PM & Team-lead  
-- [Нагорный Арсений](https://github.com/qudest) / DevOps engineer  
-- [Акельева Ульяна](https://github.com/ulianacode) / Designer & Front-end developer 
-- [Мосалов Артем](https://github.com/artomas) / Analyst  
-- [Киселев Антон](https://github.com/Smertex) / Back-end developer  
-- [Майкл Манассех](https://github.com/Drillefx) / QA  
+- [shelf08](https://github.com/shelf08) / PM & Team-lead  
+- [qudest](https://github.com/qudest) / DevOps engineer  
+- [c0derec0de](https://github.com/c0derec0de) / Designer & Front-end developer 
+- [artomas](https://github.com/artomas) / Analyst  
+- [Smertex](https://github.com/Smertex) / Back-end developer  
+- [Drillefx](https://github.com/Drillefx) / QA  
   
 ### **Ссылки на сервисы**  
 - [Miro](https://miro.com/app/board/uXjVIe9QVfg=/?share_link_id=9825766657)  
